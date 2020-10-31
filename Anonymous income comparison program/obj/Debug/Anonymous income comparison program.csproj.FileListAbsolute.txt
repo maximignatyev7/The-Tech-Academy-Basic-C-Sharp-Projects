@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\bin\Debug\Anonymous income comparison program.exe.config
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\bin\Debug\Anonymous income comparison program.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\bin\Debug\Anonymous income comparison program.pdb
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\obj\Debug\Anonymous income comparison program.csprojAssemblyReference.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\obj\Debug\Anonymous income comparison program.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\obj\Debug\Anonymous income comparison program.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Anonymous income comparison program\obj\Debug\Anonymous income comparison program.pdb

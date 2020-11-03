@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,15 +32,17 @@ namespace Shipping_quote
             Console.WriteLine("Please enter the package length:");
             int packageLength = Convert.ToInt32(Console.ReadLine());
 
-            if (packageWidth > 50 || packageHeight > 50 || packageLength > 50)
+            //if (packageWidth > 50 || packageHeight > 50 || packageLength > 50)
+            if ((packageWidth + packageHeight + packageLength) > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
             }
-
-            decimal quote = packageWidth * packageHeight * packageLength * packageWeight / 100m;
-
-            Console.WriteLine("Your estimated total for shipping this package is: $" + quote + "\nThank you!");
-
+            else
+            {
+                decimal quote = packageWidth * packageHeight * packageLength * packageWeight / 100m;
+                Console.WriteLine("Your estimated total for shipping this package is: $" + quote + "\nThank you!");
+            }
+            
             Console.ReadLine();
         }
     }

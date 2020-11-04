@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\bin\Debug\Loop_while_do.exe.config
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\bin\Debug\Loop_while_do.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\bin\Debug\Loop_while_do.pdb
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\obj\Debug\Loop_while_do.csprojAssemblyReference.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\obj\Debug\Loop_while_do.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\obj\Debug\Loop_while_do.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Loop_while_do\obj\Debug\Loop_while_do.pdb

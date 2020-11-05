@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\bin\Debug\Iteration_assignment.exe.config
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\bin\Debug\Iteration_assignment.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\bin\Debug\Iteration_assignment.pdb
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\obj\Debug\Iteration_assignment.csprojAssemblyReference.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\obj\Debug\Iteration_assignment.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\obj\Debug\Iteration_assignment.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Iteration_assignment\obj\Debug\Iteration_assignment.pdb

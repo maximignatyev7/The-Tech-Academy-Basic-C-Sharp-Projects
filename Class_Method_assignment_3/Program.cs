@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,11 +18,10 @@ namespace Class_Method_assignment_3
 
 
 
-            //int z = Convert.ToInt32(divisionObj.Addition("40"));
-
-            Console.WriteLine("80 plus 40 is " + divisionObj.Addition(z));
+            Console.WriteLine("80 plus 40 is " + divisionObj.Addition(40));
 
             Console.ReadLine();
         }
     }
 }
+

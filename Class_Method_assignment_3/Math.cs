@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +19,9 @@ namespace Class_Method_assignment_3
         }
 
         public string Addition(string y)
-        {           
-            //int convertString = Convert.ToInt32(Multiplication);
-            return 80 + y;
+        {
+            int z = Convert.ToInt32(y);            
+            return 80 + z;
         }
     }
 }

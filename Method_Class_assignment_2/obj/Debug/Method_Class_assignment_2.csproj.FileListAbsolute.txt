@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\bin\Debug\Method_Class_assignment_2.exe.config
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\bin\Debug\Method_Class_assignment_2.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\bin\Debug\Method_Class_assignment_2.pdb
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\obj\Debug\Method_Class_assignment_2.csprojAssemblyReference.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\obj\Debug\Method_Class_assignment_2.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\obj\Debug\Method_Class_assignment_2.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Method_Class_assignment_2\obj\Debug\Method_Class_assignment_2.pdb

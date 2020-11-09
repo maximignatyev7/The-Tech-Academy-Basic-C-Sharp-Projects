@@ -17,8 +17,7 @@ namespace Class_Method_assignment_3
             Console.WriteLine("80 multiply by 20.25 is " + divisionObj.Multiplication(20.25));
 
 
-
-            Console.WriteLine("80 plus 40 is " + divisionObj.Addition(40));
+            Console.WriteLine("80 plus 40 is " + divisionObj.Addition("40"));
 
             Console.ReadLine();
         }

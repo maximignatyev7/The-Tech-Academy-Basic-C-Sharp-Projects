@@ -8,17 +8,17 @@ namespace Class_Method_assignment_3
 {
     class Math
     {
-        public int Division(int y)
+        public int MathMethod(int y)
         {
             return 80 / y;
         }
 
-        public double Multiplication(double y)
+        public double MathMethod(double y)
         {
             return 80 * y;
         }
 
-        public int Addition(string y)
+        public int MathMethod(string y)
         {
             int z = Convert.ToInt32(y);            
             return 80 + z;

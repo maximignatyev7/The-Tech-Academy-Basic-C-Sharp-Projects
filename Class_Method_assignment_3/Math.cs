@@ -18,7 +18,7 @@ namespace Class_Method_assignment_3
             return 80 * y;
         }
 
-        public string Addition(string y)
+        public int Addition(string y)
         {
             int z = Convert.ToInt32(y);            
             return 80 + z;

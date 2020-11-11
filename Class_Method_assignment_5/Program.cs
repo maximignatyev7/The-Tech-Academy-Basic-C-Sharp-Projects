@@ -15,7 +15,7 @@ namespace Class_Method_assignment_5
             int firstNum = 10;
             int secondNum = 20;
 
-            mathObj.Operation(5, 15);
+            mathObj.Operation(x: 5, y: 15);
 
             //mathObj.Operation(firstNum, secondNum);
 
